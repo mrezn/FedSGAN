@@ -1,0 +1,36 @@
+communicate round 1  accuracy: 0.09740001708269119
+communicate round 2  accuracy: 0.09740001708269119
+communicate round 3  accuracy: 0.3634999394416809
+communicate round 4  accuracy: 0.7872000932693481
+communicate round 5  accuracy: 0.884600043296814
+communicate round 6  accuracy: 0.9036999344825745
+communicate round 7  accuracy: 0.9100000262260437
+communicate round 8  accuracy: 0.9154003262519836
+communicate round 9  accuracy: 0.915600061416626
+communicate round 10  accuracy: 0.9227003455162048
+communicate round 1  accuracy: 0.09740001708269119
+communicate round 2  accuracy: 0.10450001060962677
+communicate round 3  accuracy: 0.5303999185562134
+communicate round 4  accuracy: 0.8644000291824341
+communicate round 5  accuracy: 0.9053998589515686
+communicate round 6  accuracy: 0.9127001166343689
+communicate round 10  accuracy: 0.10319998860359192
+communicate round 10  accuracy: 0.10319998860359192
+communicate round 10  accuracy: 0.10319998860359192
+communicate round 10  accuracy: 0.10319998860359192
+communicate round 10  accuracy: 0.10319998860359192
+communicate round 10  accuracy: 0.10319998860359192
+communicate round 10  accuracy: 0.10319998860359192
+communicate round 10  accuracy: 0.10319998860359192
+communicate round 10  accuracy: 0.10319998860359192
+communicate round 10  accuracy: 0.10319998860359192
+communicate round 3  average accuracy: 0.9598667025566101
+communicate round 3  average accuracy: 0.9759333729743958
+communicate round 3  average accuracy: 0.9796667695045471
+communicate round 3  average accuracy: 0.9799668192863464
+communicate round 3  average accuracy: 0.9810000061988831
+communicate round 3  average accuracy: 0.9808333516120911
+communicate round 3  average accuracy: 0.9810999035835266
+communicate round 3  average accuracy: 0.9815667271614075
+communicate round 3  average accuracy: 0.9818666577339172
+communicate round 3  average accuracy: 0.9819332957267761
